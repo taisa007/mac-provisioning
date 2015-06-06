@@ -27,3 +27,9 @@ brew install ansible
 ```
 HOMEBREW_CASK_OPTS="--appdir=/Applications" ansible-playbook -i hosts -vv localhost.yml
 ```
+
+## Atom Plugin
+
+```
+apm install vim-mode
+```
